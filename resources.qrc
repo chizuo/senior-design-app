@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>config/welcome.gif</file>
+    <file>config/banner.jpg</file>
+    <file>config/movieUI.jpg</file>
+    <file>config/suggestion.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>suggestionWindow</class>
+ <widget class="QWidget" name="suggestionWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>480</width>
+    <height>320</height>
+   </rect>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>480</width>
+    <height>320</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Go Ahead, Make My Movie Night by Jonathan Chua</string>
+  </property>
+  <widget class="QLabel" name="suggestLogo">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>224</width>
+     <height>270</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;img src=&quot;:/newPrefix/config/suggestion.png&quot;/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="randomButton">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>10</y>
+     <width>230</width>
+     <height>60</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Completely Random Movies</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="trendyButton">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>80</y>
+     <width>230</width>
+     <height>60</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Movies Currently Trending</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="nowButton">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>150</y>
+     <width>230</width>
+     <height>60</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Movies Currently in Theaters</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="savedButton">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>220</y>
+     <width>230</width>
+     <height>60</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Suggest from my Saved List</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="closeButton">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>290</y>
+     <width>120</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Close Program</string>
+   </property>
+  </widget>
+ </widget>
+ <resources>
+  <include location="resources.qrc"/>
+ </resources>
+ <connections/>
+</ui>

@@ -1,0 +1,28 @@
+#start_datapoint#
+title:Army of the Dead
+rated:Action,  Horror,  Sci-Fi     
+genres:[Horror][Action][Thriller][Sci-Fi][Science Fiction]
+starring:[Dave Bautista][Ella Purnell][Hiroyuki Sanada][Huma Qureshi][Theo Rossi][Nora Arnezeder][Ana de la Reguera][Omari Hardwick][Samantha Jo][Garret Dillahunt][Raúl Castillo][Matthias Schweighöfer][Richard Cetrone][Michael Cassidy][Tig Notaro][John Flanagan][Jonathan Cohen][Chris D'Elia][Samantha Win]
+director:Damon Caro
+#end_datapoint#
+#start_datapoint#
+title:Fathom
+rated:PG
+genres:[Documentary]
+starring:[Ellen Garland][Michelle Fournet]
+director:Drew Xanthopoulos
+#end_datapoint#
+#start_datapoint#
+title:Take Back
+rated:None Provided
+genres:[Action][Thriller]
+starring:[Mickey Rourke][Michael Jai White][James Russo][Gillian White][Paul Sloan][Cree Kelly]
+director:Christian Sesma
+#end_datapoint#
+#start_datapoint#
+title:Fear Street Part Three: 1666
+rated:R
+genres:[Horror]
+starring:[Kiana Madeira][Olivia Welch][Benjamin Flores Jr.][Ashley Zukerman][Fred Hechinger][Julia Rehwald][Jeremy Ford][Gillian Jacobs][Emily Rudd][McCabe Slye][Sadie Sink][Ryan Simpkins][Darrell Britt-Gibson][Mark Ashworth][Randy Havens][Jordyn DiNatale][Jordana Spiro]
+director:Leigh Janiak
+#end_datapoint#
