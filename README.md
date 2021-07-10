@@ -3,7 +3,7 @@ CSC492 Senior Design Project - Application
 
 Code contribution described in the report are found in [/assets](https://github.com/chizuo/senior-design-app/tree/main/asset)
 
-[user.py](https://github.com/chizuo/senior-design-app/blob/main/asset/user.py) contains the AppHash class that creates a hashed identifier based off the system running the application. The result is meant to represent the user in the database. 
+#[user.py](https://github.com/chizuo/senior-design-app/blob/main/asset/user.py) contains the AppHash class that creates a hashed identifier based off the system running the application. The result is meant to represent the user in the database. 
 
 [movieUI.py](https://github.com/chizuo/senior-design-app/blob/main/asset/movieUI.py) contains the implementation of the movieUI, representing the observer, that uses the Movie class, RestApi class, and ImdbApi class
 
